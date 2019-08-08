@@ -1,0 +1,82 @@
+[
+  {
+    "question": "totally, is not escalibur",
+    "answers": ["iddqd"],
+    "hint": "epona"
+  },
+  {
+    "question": "var o let?",
+    "answers": ["let"],
+    "hint": "c'mon!"
+  },
+  {
+    "question": "que tiene 'extra' el soldado negro enmascarado que se encuentra dentro de la cueva gris de dos entradas?",
+    "answers": ["whisky", "whiskey"],
+    "hint": "la cueva esta en el polo norte...o en el polo sur?"
+  },
+  {
+    "question": "sin prender xbox, cual es el nombre de tu personaje favorito en blackout?",
+    "answers": ["zero"],
+    "hint": "!isFloat && !isBoolean && isNumber"
+  },
+  {
+    "question": "como se llama la tecnologia en la que se hizo esta pagina?",
+    "answers": ["react", "reactjs", "react.js"],
+    "hint": "de donde sale ese icono dando vueltas?"
+  },
+  {
+    "question": "que le falta a esto? 'select * usuarios where usuario_id = 1'",
+    "answers": ["from"],
+    "hint": "solo syntaxis"
+  },
+  {
+    "question": "te gusta viajar?, a donde fue tu ultimo viaje?",
+    "answers": ["manzanillo", "tequila"],
+    "hint": "ambos son correctos"
+  },
+  {
+    "question": "(acertijo!!!) esfuerzate mas, te gusta viajar?, a donde fue tu ultimo viaje?",
+    "answers": ["idkfa"],
+    "hint": "solo recuerdos?"
+  },
+  {
+    "question": "si, es idkfa, una referencia a doom (al igual que iddqd), escribelo de nuevo",
+    "answers": ["idkfa", "iddqd"],
+    "hint": "doom 95 y doom 98"
+  },
+  {
+    "question": "si llegaste hasta aqui, te has ganado unos besitos y un dia para ir a pueblear a donde gustes y cuando gustes (Kyra y Brownie invitados), escribe 'pueblillos' para seguir",
+    "answers": ["pueblillos"],
+    "hint": "no escribiste bien"
+  },
+  {
+    "question": "que dia es hoy?",
+    "answers": ["osho del osho", "osho"],
+    "hint": "en sonorense"
+  },
+  {
+    "question": "escribe: el hint de la respuesta anterior",
+    "answers": ["el hint de la respuesta anterior", "en sonorense"],
+    "hint": ""
+  },
+  {
+    "question": "Te deseo que pases un hermoso dia! TE AMO en booleano!",
+    "answers": ["true"],
+    "hint": ""
+  },
+  {
+    "question": "ahora pon la respuesta !anterior",
+    "answers": ["false"],
+    "hint": ""
+  },
+  {
+    "question": "ultimo reto!",
+    "answers": [],
+    "hint": ""
+  },
+  {
+    "question": "todos abran los ojos",
+    "answers": [],
+    "hint": ""
+  }
+]
